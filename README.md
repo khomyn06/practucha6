@@ -1,4 +1,5 @@
 Практична робота №6 Хомин Михайло
+
 #include <stdio.h>
 #include <math.h>
 
